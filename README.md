@@ -1,7 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kazuhito00/albumentations-examples/master?filepath=albumentations-examples.ipynb)
 
 # albumentations-examples
-albumentations-examplesは画像データ拡張ライブラリAlbumentationsのJupyter上での実行例です。
+albumentations-examplesは画像データ拡張ライブラリAlbumentationsのJupyter上での実行例である https://github.com/Kazuhito00/albumentations-examples
+のgithubを参考にさせていただいた上で、さらなる使い方、Tipsをまとめていこうと思う。
 
 # Requirement
  
@@ -9,7 +10,8 @@ albumentations-examplesは画像データ拡張ライブラリAlbumentationsのJ
 * Albumentations 0.4.5
 
 # Usage
-Jupyter上でalbumentations-examples.ipynbを開いて実行してください。
+Jupyter上でalbumentations-examples.ipynbを開いて実行してください。 (まとめたものの実行）
+各Notebookではより詳細な実行を実装
 
 
 
