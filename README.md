@@ -11,11 +11,7 @@ albumentations-examplesは画像データ拡張ライブラリAlbumentationsのJ
 # Usage
 Jupyter上でalbumentations-examples.ipynbを開いて実行してください。
 
-サッと確認したいのであれば、README上部のリンクからBinderでの実行も可能です。
 
-また、実行例を見るだけであれば、Github上でalbumentations-examples.ipynbを開くと以下のように見ることが出来ます。
-
-![2020-03-15 (1)](https://user-images.githubusercontent.com/37477845/76687013-7b05e200-6663-11ea-8e7e-f053b0dfbb5a.png)
 
 # Examples
 以下の実行例を実装しています。
@@ -177,8 +173,10 @@ Jupyter上でalbumentations-examples.ipynbを開いて実行してください�
 * Lambda
 　→自由度が高いため例を検討中。
 
-# Author
-高橋かずひと(https://twitter.com/KzhtTkhs)
+# 引用
+https://github.com/Kazuhito00/albumentations-examples
+
+こちらのgithubを元に作成させていただいています。
 
 # License
 
